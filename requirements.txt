@@ -1,0 +1,4 @@
+attrdict3
+wxpython
+opencv-python
+reactivex
